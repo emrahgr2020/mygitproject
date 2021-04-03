@@ -6,6 +6,7 @@ public class MyGitClass {
 		System.out.println("Versiyon 1");
 		System.out.println("My second commit");
 		System.out.println("Git ile ilk ders bitti");
+		System.out.println("Git ile ilk ders bitti2");
 	}
 
 }
