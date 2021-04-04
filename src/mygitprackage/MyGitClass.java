@@ -11,6 +11,7 @@ public class MyGitClass {
 		System.out.println("Takim arkadasimin kodu");
 		System.out.println("Takim arkadasimin kodu2");
 		System.out.println("Takim arkadasimin kodu 333");
+		System.out.println("Takim arkadasimin kodu 4444");
 	}
 
 }
