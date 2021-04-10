@@ -10,7 +10,12 @@ public class MyGitClass {
 		System.out.println("Uzak sunucudaki kodum");//github .com daki yeni kodum
 		System.out.println("Takim arkadasimin kodu");
 		System.out.println("Takim arkadasimin kodu2");
+
 		System.out.println("bilgisayar kodu");
+
+		System.out.println("Takim arkadasimin kodu 333");
+		
+
 	}
 
 }
