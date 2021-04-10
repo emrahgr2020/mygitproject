@@ -18,7 +18,8 @@ public class MyGitClass {
 
 		System.out.println("Takim arkadasimin kodu 333");
 		
-
+System.out.println("emrullah 2");
+System.out.println("emrullah 3");
 	}
 
 }
