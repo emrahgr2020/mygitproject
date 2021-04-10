@@ -13,6 +13,9 @@ public class MyGitClass {
 
 		System.out.println("bilgisayar kodu");
 
+		System.out.println("Emrullah branch inde yazdigim code ler");
+
+
 		System.out.println("Takim arkadasimin kodu 333");
 		
 
